@@ -1,0 +1,114 @@
+{
+  "editor.fontFamily": "Monaco",
+  "editor.fontSize": 18,
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "files.associations": {
+    "*.dtn": "asm"
+  },
+  "editor.renderWhitespace": "none",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "terminal.integrated.fontWeight": "200",
+  "workbench.sideBar.location": "right",
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.startupEditor": "newUntitledFile",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.minimap.enabled": false,
+  "eslint.run": "onSave",
+  "editor.renderControlCharacters": false,
+  "breadcrumbs.enabled": false,
+  "editor.detectIndentation": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "cSpell.enabledLanguageIds": [
+    "asciidoc",
+    "c",
+    "cpp",
+    "csharp",
+    "css",
+    "git-commit",
+    "go",
+    "handlebars",
+    "haskell",
+    "html",
+    "jade",
+    "java",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "latex",
+    "less",
+    "markdown",
+    "php",
+    "plaintext",
+    "pug",
+    "python",
+    "restructuredtext",
+    "rust",
+    "scala",
+    "scss",
+    "text",
+    "typescript",
+    "typescriptreact",
+    "yaml",
+    "yml"
+  ],
+  "gitlens.views.repositories.location": "scm",
+  "workbench.activityBar.visible": true,
+  "liveshare.showInStatusBar": "whileCollaborating",
+  "gauge.recommendedSettings.options": "Apply & Reload",
+  "calva.paredit.defaultKeyMap": "strict",
+  "calva.prettyPrintingOptions": {
+    "enabled": true,
+    "printEngine": "pprint",
+    "width": 120
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "c-cpp-compile-run.c-compiler": "/usr/bin/gcc",
+  "C_Cpp.updateChannel": "Insiders",
+  "sqltools.telemetry": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "cSpell.userWords": [
+    "commited",
+    "mentee"
+  ],
+  "cSpell.language": "en,en-GB,en-US",
+  "go.alternateTools": {},
+  "java.project.importHint": false,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "http.proxySupport": "off",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": false,
+    "go": true,
+    "javascript": true,
+    "shellscript": true,
+    "quokka-output": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "editor.rulers": [
+    80
+  ],
+  "editor.formatOnSave": true,
+  "javascript.preferences.quoteStyle": "single",
+  "workbench.colorTheme": "Visual Studio Dark"
+}
